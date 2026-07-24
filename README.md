@@ -66,7 +66,7 @@ DarkHorse Community: A full on-chain order book DEX built for the Pharos network
 ### 1) 克隆并拉取 submodules
 
 ```bash
-git clone --recurse-submodules https://github.com/Liuhunck/DarkHorseComm.git
+git clone --recurse-submodules https://github.com/qinyh10300/DarkHorseComm.git
 cd DarkHorseComm
 ```
 
